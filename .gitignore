@@ -1,13 +1,3 @@
 _site/
-node_modules/
-
-tunes.json
-*.log
-*.aux
-*.ilg
-*.ind
-*.idx
-*.pdf
-
 builttunes
 out-abc.sh

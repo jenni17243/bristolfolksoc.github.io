@@ -1,0 +1,1 @@
+exclude: ["README.md", "LICENCE.txt", "package.json", "index.js", "node_modules", ".gitignore"]
